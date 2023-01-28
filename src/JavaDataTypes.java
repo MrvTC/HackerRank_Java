@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaDatatypes {
+public class JavaDataTypes {
 
     public static void main(String []args)
     {
